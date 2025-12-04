@@ -1,4 +1,4 @@
-# KYU-RESOURCE-SHAIRING-PLATFORM
+# KYU-RESOURCE-SHARING-PLATFORM
 KyHub Connect: Kyambogo University's smart campus platform for sharing academic resources &amp; booking study spaces. Built with Django/React.
 # 📚 KyHub Connect - Campus Academic Resource Platform
 
